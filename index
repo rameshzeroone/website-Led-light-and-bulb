@@ -1,0 +1,463 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>UDBHAV LED BULB</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="FreeHTML5.co" />
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<!-- Owl Carousel  -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body><!--main part of program start from here-->
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<div class="top-menu">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-2">
+						<div id="fh5co-logo"><a href="index.html">UDBHAV LED<span></span></a></div>
+					</div>
+					<div class="col-xs-10 text-right menu-1">
+						<ul> <!--blocks of website-->
+							<li class="active"><a href="index.html">Home</a></li>
+							<li><a href="practice.html">product</a></li>
+							<li><a href="won.html">service</a></li>
+							<li class="has-dropdown"></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							<li class="btn-cta"><a href="#"><span>Login</span></a></li>
+							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</nav>
+
+	<aside id="fh5co-hero" class="js-fullheight">
+		<div class="flexslider js-fullheight">
+			<ul class="slides">
+				<li style="background-image: url(images/4.jpg);">
+		   		<div class="overlay-gradient"></div>
+		   		<div class="container">
+		   			<div class="row">
+			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+			   				<div class="slider-text-inner">
+			   					<h1>Darkness cannot drive out darkness: only light can do that</h1><!--thoughts of udbhav led light-->
+								<p><a class="btn btn-primary btn-lg" href="#">NEXT</a></p>
+			   				</div>
+			   			</div>
+			   		</div>
+		   		</div>
+		   	 </li>
+		   	<li style="background-image: url(images/7.jpg);">
+		   		<div class="overlay-gradient"></div>
+		   		<div class="container">
+		   			<div class="row">
+			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+			   				<div class="slider-text-inner">
+			   					<h1>There are darknesses in life and there are lights, and you are one of the lights, the light of all lights</h1>
+								<p><a class="btn btn-primary btn-lg btn-learn" href="#">NEXT</a></p>
+			   				</div>
+			   			</div>
+			   		</div>
+		   		</div>
+		   	</li>
+		   	<li style="background-image: url(images/16.jpg);">
+		   		<div class="overlay-gradient"></div>
+		   		<div class="container">
+		   			<div class="row">
+			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+			   				<div class="slider-text-inner">
+			   					<h1>We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light</h1>	
+								<p><a class="btn btn-primary btn-lg btn-learn" href="#">FINISH</a></p>
+			   				</div>
+			   			</div>
+			   		</div>
+		   		</div>
+		   	</li>		   	
+		  	</ul>
+	  	</div>
+	</aside>
+
+	<div id="fh5co-counter" class="fh5co-counters fh5co-bg-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 text-center animate-box">
+					<span class="icon"><i class="icon-user"></i></span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="0" data-speed="5000" data-refresh-interval="50"></span>
+					<span class="fh5co-counter-label">Satisfied Clients</span><!--clent satisfied for the company-->
+				</div>
+				<div class="col-md-3 text-center animate-box">
+					<span class="icon"><i class="icon-speech-bubble"></i></span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="0" data-speed="5000" data-refresh-interval="50"></span>
+					<span class="fh5co-counter-label">Cases Won</span>
+				</div>
+				<div class="col-md-3 text-center animate-box">
+					<span class="icon"><i class="icon-trophy"></i></span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="0" data-speed="5000" data-refresh-interval="50"></span>
+					<span class="fh5co-counter-label">Awards Won</span>
+				</div>
+				<div class="col-md-3 text-center animate-box">
+					<span class="icon"><i class="icon-users"></i></span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="0" data-speed="5000" data-refresh-interval="50"></span>
+					<span class="fh5co-counter-label">Lawyers</span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+	<div id="fh5co-project">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Company profile</h2><!--company detail-->
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
+					<a href="#"><img src="images/project-1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<h3>MANAGER</h3>
+						<span>Bharath gowda</span>
+					</a>
+				</div>
+				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
+					<a href="#"><img src="images/project-2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<h3>ASSISTANCE MANAGER</h3>
+						<span>Netra gowda</span>
+					</a>
+				</div>
+				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
+					<a href="#"><img src="images/project-3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<h3>CEO</h3>
+						<span>Ramesh kumar</span>
+					</a>
+				</div>
+
+	<div id="fh5co-testimonial" class="fh5co-bg-section">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+					<h2>Testimonials</h2><!--company developer team-->
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1">
+					<div class="row animate-box">
+						<div class="owl-carousel owl-carousel-fullwidth">
+							<div class="item">
+								<div class="testimony-slide active text-center">
+									<figure>
+										<img src="images/user-2.jpg" alt="user">
+									</figure>
+									<h1>Bharath gowda</a></h1>
+									<blockquote>
+										<p>we are launching a new website of udbhav led light bulbs</p>
+									</blockquote>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimony-slide active text-center">
+									<figure>
+										<img src="images/user-1.jpg" alt="user">
+									</figure>
+									<h1>Netra gowda<a href="#"></a></h1>
+									<blockquote>
+										<p>we are making a led bulb which you can buy in less cost as well as of good quality</p>
+									</blockquote>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimony-slide active text-center">
+									<figure>
+										<img src="images/user-1.jpg" alt="user">
+									</figure>
+									<h1>Ramesh kumar<a href="#"></a></h1>
+									<blockquote>
+										<p>we are giving a best quality of led bulbs and with 2years warranty </p>
+									</blockquote>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="choose animate-box">
+			<div class="fh5co-heading">
+				<h2>contact</h2>
+			</div>
+			<form action="#">
+				<div class="row form-group">
+					<div class="col-md-6">
+						<!-- <label for="fname">First Name</label> -->
+						<input name="text" id="fname" class="form-control" placeholder="Your firstname">
+					</div>
+					<div class="col-md-6">
+						<!-- <label for="lname">Last Name</label> -->
+						<input name="text" id="lname" class="form-control" placeholder="Your lastname">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<!-- <label for="email">Email</label> -->
+						<input type="text" id="email" class="form-control" placeholder="Your email address">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<!-- <label for="subject">Subject</label> -->
+						<input name="text" id="subject" class="form-control" placeholder="Your subject of this message">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<!-- <label for="message">Message</label> -->
+						<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+					</div>
+				</div>
+				<div class="form-group">
+					<input name="submit" value="Send Message" class="btn btn-primary">
+				</div>
+
+			</form>	
+		</div>
+	</div>
+
+	<div id="fh5co-blog" class="fh5co-bg-section">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Recent Post</h2>
+					<p>Best quality of bulb with less amount and good quailty</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#"><img class="img-responsive" src="images/project-4.jpg" alt=""></a>
+						<div class="blog-text">
+							<span class="comment"><a href=""><i class="icon-speech-bubble"></i></a></span>
+							<h3><a href="#">Legal Consultation</a></h3>
+							<p>MAke the whole world lighting and give light to the old people.</p>
+							<a href="#" class="btn btn-primary"></a>
+						</div> 
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#"><img class="img-responsive" src="images/project-2.jpg" alt=""></a>
+						<div class="blog-text">
+							<span class="posted_on">Nov. 15th</span>
+							<span class="comment"><a href=""><i class="icon-speech-bubble"></i></a></span>
+							<h3><a href="#">Criminal Case</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<a href="#" class="btn btn-primary"></a>
+						</div> 
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#"><img class="img-responsive" src="images/project-3.jpg" alt=""></a>
+						<div class="blog-text">
+							<span class="posted_on">Nov. 15th</span>
+							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
+							<h3><a href="#">Business Law</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<a href="#" class="btn btn-primary">Read More</a>
+						</div> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-about">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Our Attorneys</h2>
+					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
+					<div class="fh5co-staff">
+						<img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+						<h3>Bharath gowda</h3>
+						<strong class="role">Counsel</strong>
+						<p>We all welcome everyone those who are taking this bulb this is very useful and good quality of bulb.</p>
+						<ul class="fh5co-social-icons">
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-github"></i></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
+					<div class="fh5co-staff">
+						<img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+						<h3>Netra gowda</h3>
+						<strong class="role">Head of International Practice</strong>
+						<p>Awsome quality of bulb.</p>
+						<ul class="fh5co-social-icons">
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-github"></i></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
+					<div class="fh5co-staff">
+						<img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+						<h3>Ramesh kumar</h3>
+						<strong class="role">Managing Partner, Attorney</strong>
+						<p>Less price and good qulaity of bulb.</p>
+						<ul class="fh5co-social-icons">
+							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							<li><a href="#"><i class="icon-github"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Legal Advice</h2>
+					<p>We help people effectively fight their offenders back and successfully defend their own stand!</p>
+				</div>
+			</div>
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<p><a href="#" class="btn btn-default btn-lg">Consultation</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer id="fh5co-footer" role="contentinfo">
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-3 fh5co-widget">
+					<h4>Attorney's Law</h4>
+					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+				</div>
+				<div class="col-md-3 col-md-push-1">
+					<h4>Navigation</h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">product</a></li>
+						<li><a href="#">service</a></li>
+						<li><a href="#">About us</a></li>
+						<li><a href="#">contact</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-3 col-md-push-1">
+					<h4>CONTACT</h4><!--company address and contact info-->
+					<ul class="fh5co-footer-links">
+						<li>#3/A,2nd floor,3rd phase ,<br>Sarakki industrial Area,bangalore-560078</li>
+						<li><a href="tel://080-41171486">+ 080-41171486</a></li>
+						<li><a href="mailto:info@udbhavlights.in">info@udbhavlights.in</a></li>
+						<li><a href="http://gettemplates.co">gettemplates.co</a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-3 col-md-push-1">
+					<h4>Opening Hours</h4>
+					<ul class="fh5co-footer-links">
+						<li>Mon - Thu: 9:00 - 21 00</li>
+						<li>Fri 8:00 - 21 00</li>
+						<li>Sat 9:30 - 15: 00</li>
+					</ul>
+				</div>
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- countTo -->
+	<script src="js/jquery.countTo.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
